@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # understrap-child
 Basic Child Theme for UnderStrap Theme Framework: https://github.com/understrap/understrap
 
@@ -57,3 +58,6 @@ Or, to run with Browser-Sync:
 - then run: `$ gulp watch-bs`
 
 [1] Visit [https://browsersync.io/](https://browsersync.io/) for more information on Browser Sync
+=======
+# Wordpress-Child-Theme
+>>>>>>> 0f427ced964fe98b823c313923c304819df287ea
